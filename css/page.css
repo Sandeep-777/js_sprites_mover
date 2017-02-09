@@ -1,0 +1,27 @@
+body{
+	position: absolute;
+	top:0%;
+	left: 0%;
+	height: 100%;
+	width: 100%;
+}
+
+.elephant_sprite {
+	position: absolute;
+	z-index: 11;
+	bottom: 10%;
+	right: 35%;
+	width: 20%;
+	height: 30%;
+	/*background-image: url("../elephant.png");
+	background-size: 600% 100%;
+	background-position: 0% 0%;*/
+}
+
+.total{
+	position: absolute;
+	top:0%;
+	left: 0%;
+	height: 100%;
+	width: 100%;
+}
